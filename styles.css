@@ -1,0 +1,54 @@
+
+@media (max-width: 576px) {
+.active-link {
+    border-bottom: none;
+}
+}
+
+@media (max-width: 576px) {
+#responsive-heading {
+  font-size: 1.25rem;
+}
+}
+
+@media (max-width: 576px) {
+#responsive-heading1 {
+  font-size: 2.5rem; 
+}
+}
+
+
+
+
+@media (max-width: 676px) {
+.button-container {
+    flex-direction: column; 
+    align-items: center; 
+}
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px; 
+    }
+
+.fa {
+padding: 20px;
+font-size: 30px;
+width: 50px;
+text-align: center;
+text-decoration: none;
+}
+
+.active-link {
+    border-bottom: 2px solid blue;
+}
+
+
+
+
+.fa-globe {
+
+color: black;
+}
